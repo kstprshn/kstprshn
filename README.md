@@ -25,5 +25,5 @@
 <hr>
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kstprshn&show_icons=true&locale=en&layout=compact" alt="kstprshn" height="200" width="300" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kstprshn&" alt="kstprshn" height="200" width="300" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kstprshn&" alt="kstprshn" height="300" width="300" />
 </div>
