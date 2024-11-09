@@ -22,7 +22,7 @@
 <hr>
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kstprshn&show_icons=true&locale=en&layout=compact" alt="kstprshn" height="210" width="340" />
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
+    <img src="https://camo.githubusercontent.com/baec72236ceafb01cd53201adee3dcfcfa493422e1905b7b6dcc670d6032458d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d44696d617468696363267468656d653d64656661756c7426686964655f626f726465723d66616c7365" alt="GitHub Streak" /></a>
 
 </div>
 
