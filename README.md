@@ -1,9 +1,9 @@
-<h1>Hi 👋!My name is Kostya and I am a beginner java backend developer</h1>
-- 🔭 I’m currently working on [my personal project:](https://github.com/kstprshn/OnlineLibrary)
+<h1 align="center">Hi 👋!My name is Konstantin and I am a beginner java backend developer</h1>
+<h3 align="center">I love writing java services and learning new technologies</h3>
+
+- 🔭 I’m currently working on [my personal project](https://github.com/kstprshn/OnlineLibrary)
 
 - 📫 How to reach me **https://t.me/kospershin21**
-
-- I love writing java services and learning new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
