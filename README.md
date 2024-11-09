@@ -24,5 +24,8 @@
 </p> 
 <hr>
 <div align="left">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kstprshn&show_icons=true&locale=en&layout=compact" alt="kstprshn"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kstprshn&" alt="kstprshn"/></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kstprshn&show_icons=true&locale=en&layout=compact" alt="kstprshn" height="300"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kstprshn&" alt="kstprshn" height="300"/>
+</p>
 </div>
