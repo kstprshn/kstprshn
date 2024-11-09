@@ -23,7 +23,13 @@
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="junit" alt="junit" width="50" height="50"/></a>
 </p> 
 <hr>
-<div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kstprshn&show_icons=true&locale=en&layout=compact" alt="kstprshn" height="200" width="300" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kstprshn&" alt="kstprshn" height="300" width="300" />
+<div align="left">
+    <p style="display: inline-block; float: left;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kstprshn&show_icons=true&locale=en&layout=compact" alt="kstprshn" height="200" width="300" />
+    </p>
+    <p style="display: inline-block; float: left;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kstprshn&" alt="kstprshn" height="200" width="300" />
+    </p>
 </div>
+<div style="clear: both;"></div>
+
