@@ -18,6 +18,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="50" height="50"/> </a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" title="maven" alt="maven" width="50" height="50"/></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="junit" alt="junit" width="50" height="50"/></a>
+  <div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="mocikto" title="mocikto"/></code>
+</div>
 </p> 
 <hr>
 <div style="display: flex; align-items: flex-start;">
