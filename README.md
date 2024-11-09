@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Konstantin and I am a beginner java backend developer</h2>
+<h2 align="center">Hi👋! My name is Konstantin and I am a beginner java backend developer</h2>
 <h3 align="center">I love writing java services and learning new technologies</h3>
 
 - 🔭 I’m currently working on [my personal project](https://github.com/kstprshn/OnlineLibrary)
@@ -6,7 +6,7 @@
 - 📫 How to reach me **https://t.me/kospershin21**
   
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title ="java" alt="java" width="50" height="50"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="spring" alt="spring" width="50" height="50"/> </a>
