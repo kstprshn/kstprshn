@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [my personal project](https://github.com/kstprshn/OnlineLibrary)
 
 - 📫 How to reach me **https://t.me/kospershin21**
-                        kstprshn@gmail.com
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
