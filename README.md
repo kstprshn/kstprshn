@@ -22,5 +22,6 @@
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" title="maven" alt="maven" width="50" height="50"/></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="junit" alt="junit" width="50" height="50"/></a>
 </p> 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kstprshn&show_icons=true&locale=en&layout=compact" alt="kstprshn" width="400" height="400"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kstprshn&" alt="kstprshn" width="400" height="550"/></p>
+<div align="left">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kstprshn&show_icons=true&locale=en&layout=compact" alt="kstprshn"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kstprshn&" alt="kstprshn"/></p>
+</div>
