@@ -1,7 +1,7 @@
 <h2 align="left">Hi👋! My name is Konstantin and I am a beginner java backend developer</h2>
 <h3 align="center">I love writing java services and learning new technologies</h3>
 
-- 🔭 I’m currently working on [my personal project]([https://github.com/kstprshn/ProjectManagementSystem])
+- 🔭 I’m currently working on [my personal project](https://github.com/kstprshn/ProjectManagementSystem)
 - 📫 How to reach me **https://t.me/kospershin21**
   
 
